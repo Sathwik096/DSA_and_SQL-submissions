@@ -85,4 +85,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
