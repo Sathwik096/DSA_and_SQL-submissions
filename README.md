@@ -79,11 +79,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
