@@ -105,11 +105,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0099-recover-binary-search-tree](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0099-recover-binary-search-tree](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Tree
 |  |
@@ -127,6 +130,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0099-recover-binary-search-tree](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -147,4 +151,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
