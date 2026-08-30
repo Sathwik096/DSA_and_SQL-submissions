@@ -155,6 +155,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0070-climbing-stairs) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
@@ -165,4 +166,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
