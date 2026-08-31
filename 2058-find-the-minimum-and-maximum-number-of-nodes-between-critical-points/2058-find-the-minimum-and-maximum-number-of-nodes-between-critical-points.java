@@ -17,26 +17,25 @@ class Solution {
         prev = head;
         cur = head.next;
         nxt = cur.next;
-        int count = 2;
-        List<Integer> arr = new ArrayList<>();
+        int count = 2 , min = Integer.MAX_VALUE , first=0 , p=0 ;
         while(nxt!=null){
-            if(cur.val < prev.val && cur.val < nxt.val)
-                arr.add(count);
-            if(cur.val > prev.val && cur.val > nxt.val)
-                arr.add(count);
-            //System.out.println(prev.val + " " + cur.val + " " + nxt.val + " " + count);
+            if((cur.val < prev.val && cur.val < nxt.val) || (cur.val > prev.val && cur.val > nxt.val)){
+                if(first==0)
+                    first = count;
+                else{
+                    min = Math.min(min , count - p);
+                }
+                p = count;
+            }
+            //System.out.println(min + " " + first + " " + p + " " + count);
             count++;
             prev = cur;
             cur = nxt;
             nxt = nxt.next;
         }
-        if(arr.size()<2){
+        if((first==0 && p==0) || first==p){
             return new int[]{-1,-1};
         }
-        System.out.println(arr);
-        int s = arr.size() , min = Integer.MAX_VALUE;
-        for(int i=1;i<s;i++)
-            min = Math.min(min,arr.get(i)-arr.get(i-1));
-        return new int[]{min , arr.get(s-1) - arr.get(0)};
+        return new int[]{min , p - first};
     }
 }
