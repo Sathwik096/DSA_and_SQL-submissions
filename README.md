@@ -186,5 +186,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
