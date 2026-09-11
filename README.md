@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0046-permutations) |
@@ -106,6 +107,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0031-next-permutation) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Tree
 |  |
