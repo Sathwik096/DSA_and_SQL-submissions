@@ -198,6 +198,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0046-permutations](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0090-subsets-ii) |
 ## Bracket Sequences
 |  |
@@ -224,4 +225,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
