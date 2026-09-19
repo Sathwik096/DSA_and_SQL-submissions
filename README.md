@@ -103,6 +103,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0070-climbing-stairs) |
+| [1922-count-good-numbers](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1922-count-good-numbers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
@@ -217,6 +218,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0024-swap-nodes-in-pairs) |
+| [1922-count-good-numbers](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1922-count-good-numbers) |
 ## Sorting
 |  |
 | ------- |
