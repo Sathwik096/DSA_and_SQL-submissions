@@ -172,6 +172,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0022-generate-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0940-distinct-subsequences-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -213,6 +215,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
