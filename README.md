@@ -90,6 +90,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2239-find-closest-number-to-zero) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -184,6 +185,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0070-climbing-stairs](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0070-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## DP on Trees
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Greedy
 |  |
 | ------- |
@@ -249,6 +252,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0059-spiral-matrix-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation
 |  |
 | ------- |
