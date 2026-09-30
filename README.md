@@ -120,6 +120,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0018-4sum](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0031-next-permutation) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-middle-of-the-linked-list](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -227,6 +228,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0024-swap-nodes-in-pairs) |
+| [0876-middle-of-the-linked-list](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
