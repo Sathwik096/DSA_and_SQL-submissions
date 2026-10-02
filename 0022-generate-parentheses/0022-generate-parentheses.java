@@ -1,17 +1,19 @@
 class Solution {
-    static void seq(List<String> res,int n,String cur,int open,int close){
-        if(cur.length() == 2*n){
-                res.add(cur);
+    static void generate(int n,int i,List<String> res,String s,int c){
+        if(i == n){
+            if(c == 0){
+                res.add(new String(s));
+            }
             return;
         }
-        if(open < n)
-            seq(res,n,cur + "(",open+1,close);
-        if(close < open)
-            seq(res,n,cur + ")",open,close + 1);
+        if(c < 0)
+            return;
+        generate(n,i+1,res,s+'(',c+1);
+        generate(n,i+1,res,s+')',c-1);
     }
     public List<String> generateParenthesis(int n) {
-        List<String> res = new ArrayList<>();
-        seq(res,n,"",0,0);
+        List<String> res = new ArrayList<String>();
+        generate(n*2,0,res,"",0);
         return res;
     }
 }
