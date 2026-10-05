@@ -176,6 +176,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0032-longest-valid-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -208,6 +209,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0022-generate-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
@@ -229,6 +231,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0022-generate-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Greedy
