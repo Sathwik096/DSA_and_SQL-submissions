@@ -139,6 +139,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
@@ -209,6 +210,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0020-valid-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -226,6 +228,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0051-n-queens](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0301-remove-invalid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
