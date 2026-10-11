@@ -91,6 +91,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2239-find-closest-number-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -288,4 +289,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0059-spiral-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
