@@ -95,6 +95,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -254,6 +255,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
@@ -271,6 +273,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0015-3sum](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0047-permutations-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Algorithm X
 |  |
 | ------- |
