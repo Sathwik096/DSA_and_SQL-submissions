@@ -117,6 +117,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0070-climbing-stairs) |
 | [1922-count-good-numbers](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1922-count-good-numbers) |
+| [2409-count-days-spent-together](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
@@ -226,6 +227,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1021-remove-outermost-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2409-count-days-spent-together) |
 ## Backtracking
 |  |
 | ------- |
