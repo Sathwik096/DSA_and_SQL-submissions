@@ -87,6 +87,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0059-spiral-matrix-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0090-subsets-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -152,6 +153,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0099-recover-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -293,6 +295,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0059-spiral-matrix-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation
 |  |
@@ -314,4 +317,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0128-longest-consecutive-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
