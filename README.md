@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0090-subsets-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -119,6 +120,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1922-count-good-numbers](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
