@@ -119,6 +119,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1922-count-good-numbers](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1922-count-good-numbers) |
@@ -156,6 +157,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0099-recover-binary-search-tree](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -328,4 +330,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0240-search-a-2d-matrix-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
