@@ -84,6 +84,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0046-permutations](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0090-subsets-ii) |
@@ -302,6 +303,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -309,6 +311,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0059-spiral-matrix-ii) |
 ## Enumeration
 |  |
