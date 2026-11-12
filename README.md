@@ -123,6 +123,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0069-sqrtx](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0507-perfect-number](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0507-perfect-number) |
 | [1922-count-good-numbers](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
