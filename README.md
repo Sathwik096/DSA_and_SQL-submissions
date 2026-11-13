@@ -233,6 +233,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0032-longest-valid-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0940-distinct-subsequences-ii) |
@@ -338,4 +339,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0069-sqrtx) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
