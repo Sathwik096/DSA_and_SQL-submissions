@@ -108,6 +108,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0451-sort-characters-by-frequency](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -232,6 +233,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0022-generate-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0301-remove-invalid-parentheses) |
+| [0451-sort-characters-by-frequency](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0856-score-of-parentheses) |
@@ -292,6 +294,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0015-3sum](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0047-permutations-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Algorithm X
 |  |
@@ -343,4 +346,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
