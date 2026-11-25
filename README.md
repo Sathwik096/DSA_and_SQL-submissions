@@ -106,6 +106,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0205-isomorphic-strings) |
@@ -122,6 +123,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -232,6 +234,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0022-generate-parentheses) |
