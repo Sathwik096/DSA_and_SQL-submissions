@@ -126,6 +126,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0070-climbing-stairs](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -214,6 +215,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0022-generate-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -226,6 +228,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -289,6 +292,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0024-swap-nodes-in-pairs) |
+| [0509-fibonacci-number](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1922-count-good-numbers) |
 ## Sorting
 |  |
