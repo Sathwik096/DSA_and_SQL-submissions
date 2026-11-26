@@ -374,5 +374,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1527-patients-with-a-condition](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
