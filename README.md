@@ -101,6 +101,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3379-transformed-array](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3379-transformed-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -329,6 +330,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0054-spiral-matrix](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0059-spiral-matrix-ii) |
 | [3360-stone-removal-game](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3360-stone-removal-game) |
+| [3379-transformed-array](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3379-transformed-array) |
 ## Enumeration
 |  |
 | ------- |
