@@ -371,4 +371,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0451-sort-characters-by-frequency) |
+## Database
+|  |
+| ------- |
+| [1527-patients-with-a-condition](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
