@@ -132,6 +132,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1922-count-good-numbers](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3360-stone-removal-game](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3360-stone-removal-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
@@ -327,6 +328,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/0059-spiral-matrix-ii) |
+| [3360-stone-removal-game](https://github.com/Sathwik096/DSA_and_SQL-submissions/tree/master/3360-stone-removal-game) |
 ## Enumeration
 |  |
 | ------- |
